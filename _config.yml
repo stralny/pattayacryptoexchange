@@ -1,93 +1,75 @@
 181510
-# YOUR NAME OR TITLE OF YOUR SITE
+
 name: TWOJA NAZWA
 
-# YOUR BRAND/PERSONAL TAGLINE
-tagline: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+tagline: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-# YOUR/BRAND IMAGE URL
 Image_URL: assets/images/avatar.jpg
 
-# CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: assets/images/background.jpg
 
-# SOCIAL MEDIA
 links:
 
-    # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
     Username: nazwaprofilu
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
 
-    # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com
     Username: nazwaprofilu
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
-    # TWITTER
   - Name: Twitter
     URL: https://twitter.com
     Username: nazwaprofilu
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
-    # YOUTUBE
   - Name: YouTube
     URL: https://www.youtube.com/channel
     Username: nazwakalu
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
 
-    # EMAIL
   - Name: Email
     URL: 'mailto:adres@email.pl'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
 
-    # MESSENGER
   - Name: Messenger
     URL: https://m.me
     Username: nazwaprofilu
     Color: '#006AFF'
     Icon-Class: fab fa-facebook-messenger
 
-    # TELEGRAM
   - Name: Telegram
     URL: http://telegram.me
     Username: nazwaprofilu
     Color: '#0088cc'
     Icon-Class: fab fa-telegram-plane
 
-    # TIKTOK
- - Name: TikTok
-   URL: https://www.tiktok.com
-   Username: nazwaprofilu
-   Color: '#FE2C55'
-   Icon-Class: fab fa-tiktok
+  - Name: TikTok
+    URL: https://www.tiktok.com
+    Username: nazwaprofilu
+    Color: '#FE2C55'
+    Icon-Class: fab fa-tiktok
 
-    # CUSTOM LINK
   - Name: INNY LINK
-    URL: https://
+    URL: https://twojlink.pl
     Icon-Class: fas fa-link
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
 
-# YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'Yes'
 
-# STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
-
-# Compress
 compress_html:
   clippings: all
 
-# Exclude
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -101,8 +83,4 @@ exclude:
   - vendor/ruby/
   - Icon
 
-# Base URL
-# baseurl: /links
-
-# Default Markdown Engine
 markdown: kramdown
