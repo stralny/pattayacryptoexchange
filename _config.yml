@@ -5,7 +5,7 @@ name: TWOJA NAZWA
 tagline: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: assets/images/avatar.jpg
+Image_URL: assets/images/avatar.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: assets/images/background.jpg
@@ -36,27 +36,6 @@ links:
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
-    # Cal.com
-  - Name: Cal.com
-    URL: ''
-    Username: ''
-    Color: '#232323'
-    Icon-Class: fa fa-calendar-check
-
-    # CLUBHOUSE
-  - Name: Clubhouse
-    URL: ''
-    Username: ''
-    Color: '#f1c40f'
-    Icon-Class: fas fa-hand-paper -mt-0.5
-    
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: ''
-    Username: ''
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
-
     # YOUTUBE
   - Name: YouTube
     URL: https://www.youtube.com/channel
@@ -64,34 +43,11 @@ links:
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
 
-    # GITHUB
-  - Name: GitHub
-    URL: ''
-    Username: ''
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
-
     # EMAIL
   - Name: Email
     URL: 'mailto:twoj@email.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
-    Text_Color: '#ffffff'
-
-    # TWITCH
-  - Name: Twitch
-    URL: ''
-    Username: ''
-    Icon-Class: fab fa-twitch
-    Color: '#9147fe'
-    Text_Color: '#ffffff'
-
-    # VIMEO
-  - Name: Vimeo
-    URL: ''
-    Username: ''
-    Icon-Class: fab fa-vimeo-v
-    Color: '#1ab7ea'
     Text_Color: '#ffffff'
 
     # MESSENGER
@@ -101,20 +57,6 @@ links:
     Color: '#006AFF'
     Icon-Class: fab fa-facebook-messenger
 
-  # # REDDIT
-  # - Name: Reddit
-  # URL: ''
-  # Username: ''
-  # Color: '#FF4500'
-  # Icon-Class: fab fa-reddit-alien
-
-  #   # WHATSAPP
-  # - Name: WhatsApp
-  #   URL: https://wa.me
-  #   Username: '+1123456789'
-  #   Color: '#25d366'
-  #   Icon-Class: fab fa-whatsapp
-
     # TELEGRAM
   - Name: Telegram
     URL: http://telegram.me
@@ -122,125 +64,13 @@ links:
     Color: '#0088cc'
     Icon-Class: fab fa-telegram-plane
 
-    # SNAPCHAT
-  - Name: Snapchat
-    URL: ''
-    Username: ''
-    Color: '#FFFC00'
-    Text_Color: '#000000'
-    Icon-Class: fab fa-snapchat-ghost
-
-    # STEAM
-  - Name: Steam
-    URL: ''
-    Username: ''
-    Color: '#66c0f4'
-    Text_Color: '#000000'
-    Icon-Class: fab fa-steam
-
-  #   # DISCORD
-  # - Name: Discord
-  #   URL: 'https://discord.gg'
-  #   Username: 
-  #   Icon-Class: fab fa-discord
-  #   Color: '#5865F2'
-  #   Text_Color: '#ffffff'
-
-    # PINTEREST
-  - Name: Pinterest
-    URL: ''
-    Username: ''
-    Color: '#E60023'
-    Icon-Class: fab fa-pinterest
-
-    # BEHANCE
-  - Name: Behance
-    URL: ''
-    Username: ''
-    Color: '#1769ff'
-    Icon-Class: fab fa-behance
-
-  #   # DRIBBBLE
-  # - Name: Dribbble
-  #   URL: https://dribbble.com
-  #   Username: 
-  #   Color: '#ea4c89'
-  #   Icon-Class: fab fa-dribbble
-
-    # DEVIANTART
-  - Name: DeviantArt
-    URL: ''
-    Username: ''
-    Icon-Class: fab fa-deviantart
-    Color: '#05CC46'
-    Text_Color: '#ffffff'
-
-    # FIGMA
-  - Name: Figma
-    URL: ''
-    Username: ''
-    Icon-Class: fab fa-figma
-    Color: '#ff2865'
-    Text_Color: '#ffffff'
-
-    # SPOTIFY
-  - Name: Spotify
-    URL: ''
-    Username: ''
-    Color: '#1DB954'
-    Icon-Class: fab fa-spotify
-
-    # SOUNDCLOUD
-  - Name: SoundCloud
-    URL: ''
-    Username: ''
-    Color: '#FE5000'
-    Icon-Class: fab fa-soundcloud
-
-  - Name: Skype
-    URL: ''
-    Icon-Class: fa-brands fa-skype
-    Color: '#00aff0'
-    Text_Color: '#ffffff'
-
      # TIKTOK
   - Name: TikTok
     URL: https://www.tiktok.com
     Username: nazwaprofilu
     Color: '#FE2C55'
     Icon-Class: fab fa-tiktok
-
-    # MEDIUM
-  - Name: Medium
-    URL: ''
-    Username: ''
-    Icon-Class: fab fa-medium-m
-    Color: '#00ab6c'
-    Text_Color: '#ffffff'
-
-    # DEV.TO
-  - Name: Dev.to
-    URL: ''
-    Username: ''
-    Icon-Class: fab fa-dev
-    Color: '#ffffff'
-    Text_Color: '#000000'
-
-  #   # TUMBLR
-  # - Name: Tumblr
-  #   URL: https://www.tumblr.com
-  #   Username: 
-  #   Color: '#35465c'
-  #   Icon-Class: fab fa-tumblr
-
-  # BUY ME A COFFEE
-  - Name: BuyMeACoffee
-    URL: ''
-    Username: ''
-    Icon-Class: fas fa-mug-hot
-    Color: '#FFDD00'
-    Text_Color: '#000000'
-
+    
     # CUSTOM LINK
   - Name: TWOJ LINK
     URL: https://twojastrona.pl
