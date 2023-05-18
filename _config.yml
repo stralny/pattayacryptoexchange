@@ -5,7 +5,7 @@ name: TWOJA NAZWA
 tagline: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://github.com/stralny/socialmedia002/blob/9e4e628f4200b45652559405a5a37d97107b3b82/assets/images/avatar.png
+Image_URL: https://cdn4.iconfinder.com/data/icons/bold-circular-app-web-icons/1153/circle_user_bold-512.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: assets/images/background.jpg
