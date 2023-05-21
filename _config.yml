@@ -18,14 +18,14 @@ links:
     # WHATSAPP
   - Name: Book by WhatsApp
     URL: https://wa.me
-    Username: '+1123456789'
+    Username: '+48503960275'
     Color: '#25d366'
     Icon-Class: fab fa-whatsapp
 
     # TELEGRAM
   - Name: Book by Telegram
-    URL: http://telegram.me
-    Username: flying_4free
+    URL: https://t.me
+    Username: flying4free
     Color: '#0088cc'
     Icon-Class: fab fa-telegram-plane
 
