@@ -25,6 +25,9 @@ html {
             background-color: black;
         }
     }
+        p span {
+  display: block;
+}
     .links {
         transition: all ease 0.25s;
         &:hover {
