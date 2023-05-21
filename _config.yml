@@ -15,12 +15,12 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
-    # INSTAGRAM
-  - Name: Book by Instagram
-    URL: https://www.instagram.com
-    Username: flying_4free
-    Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
+    # WHATSAPP
+  - Name: Book by WhatsApp
+    URL: https://wa.me
+    Username: '+1123456789'
+    Color: '#25d366'
+    Icon-Class: fab fa-whatsapp
 
     # TELEGRAM
   - Name: Book by Telegram
