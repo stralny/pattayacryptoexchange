@@ -16,14 +16,14 @@ links:
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
     # INSTAGRAM
-  - Name: Instagram
+  - Name: Book by Instagram
     URL: https://www.instagram.com
     Username: flying_4free
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
     # TELEGRAM
-  - Name: Telegram
+  - Name: Book by Telegram
     URL: http://telegram.me
     Username: flying_4free
     Color: '#0088cc'
