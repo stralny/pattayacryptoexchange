@@ -5,7 +5,7 @@ name: Flying_4Free
 tagline: '<p><span>FLY LUXURY FOR LESS ✈️</span><span>✂️ Discounts for flights up to -50%</span><span>Business & First class</span></p>'
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://cdn4.iconfinder.com/data/icons/bold-circular-app-web-icons/1153/circle_user_bold-512.png
+Image_URL: assets/images/flying_4free-logo2.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: assets/images/background.jpg
