@@ -23,11 +23,11 @@ links:
     Icon-Class: fab fa-whatsapp
 
     # TELEGRAM
-  - Name: Book by Telegram
-    URL: https://t.me
-    Username: flying4free
-    Color: '#0088cc'
-    Icon-Class: fab fa-telegram-plane
+  # - Name: Book by Telegram
+    # URL: https://t.me
+    # Username: flying4free
+    # Color: '#0088cc'
+    # Icon-Class: fab fa-telegram-plane
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'Yes'
