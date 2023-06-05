@@ -1,11 +1,11 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Flying_4Free
+name: LUX AIR
 
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: '<p><span>FLY LUXURY FOR LESS ✈️</span><span>✂️ Discounts for flights up to -50%</span><span>Business & First class</span></p>'
 
 # YOUR/BRAND IMAGE URL
-Image_URL: assets/images/flying_4free-logo3.png
+Image_URL: assets/images/luxair_logo.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: assets/images/background.jpg
@@ -15,19 +15,19 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
+    # TELEGRAM
+  - Name: Book by Telegram
+    URL: https://t.me
+    Username: LuxAir365
+    Color: '#0088cc'
+    Icon-Class: fab fa-telegram-plane
+
     # WHATSAPP
   - Name: Book by WhatsApp
     URL: https://wa.me
-    Username: '+971527431767'
+    Username: '+971585175264'
     Color: '#25d366'
     Icon-Class: fab fa-whatsapp
-
-    # TELEGRAM
-  # - Name: Book by Telegram
-    # URL: https://t.me
-    # Username: flying4free
-    # Color: '#0088cc'
-    # Icon-Class: fab fa-telegram-plane
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'Yes'
