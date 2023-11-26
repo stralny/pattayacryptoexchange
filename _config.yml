@@ -1,53 +1,32 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: 'Weed Shop One'
+name: ''
 
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: ''
 
 # YOUR/BRAND IMAGE URL
-Image_URL: assets/images/weedshopone_logo_site.png
+Image_URL: assets/images/pce_logo_site.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: assets/images/weedshopone_background.jpg
+Cover_Image: assets/images/pce_background.jpg
 
 # SOCIAL MEDIA
 links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
 
-    # CUSTOM LINK
-  - Name: ONLINE SHOP & DELIVERY 24/7
-    URL: https://tv.weedshop.one
-    Icon-Class: fas fa-shopping-cart
-    Color: '#ffb142'
-    Text_Color: '#ffffff'
-
-    # INSTAGRAM
-  - Name: Instagram
-    URL: https://www.instagram.com
-    Username: weedshop_one
-    Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
-
-    # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: profile.php?id=61551030621026
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
-
     # LINE
   - Name: LINE
-    URL: https://line.me/R/ti/p/@289pstbp
+    URL: https://line.me/ti/p/lGXZZXLl-T
     Color: '#25d366'
     Icon-Class: fa-brands fa-line
 
-    # website
-  - Name: OUR WEEBSITE
-    URL: https://weedshop.one
-    Icon-Class: fas fa-globe
-    Color: '#ffb142'
-    Text_Color: '#ffffff'
+    # TELEGRAM
+  - Name: TELEGRAM
+    URL: https://t.me
+    Username: PattayaCryptoExchange
+    Color: '#0088cc'
+    Icon-Class: fab fa-telegram-plane
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'Yes'
